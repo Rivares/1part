@@ -1,5 +1,5 @@
-//graphic;  vectors;
-// Linear Heat exchanger Mathematical Model
+//  Graphic;  Vectors; Threads
+//  Linear Heat exchanger Mathematical Model
 #include <iostream>
 #include <cstring>
 #include <math.h>
